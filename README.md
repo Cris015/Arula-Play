@@ -1,14 +1,29 @@
 🎮 ArulaPlay
-Este proyecto fue desarrollado como parte del curso de Arula Latam, con el objetivo de aprender y practicar el uso de Flexbox en la maquetación web.
-ArulaPlay es una página web construida únicamente con HTML y CSS, enfocada en aplicar técnicas modernas de diseño responsivo mediante Flexbox.
+Proyecto creado siguiendo el curso de Arula Latam. ArulaPlay es una página web desarrollada con HTML y CSS, enfocada en el uso de Flexbox para practicar y entender este método de maquetación moderna y responsiva.
 
-🔧 Tecnologías utilizadas:
 
+📂 Contenido
+Página maquetada con Flexbox
+
+Estructura limpia en HTML5
+
+Estilos modernos con CSS3
+
+Diseño responsive básico
+
+🚀 Tecnologías usadas
 HTML5
 
 CSS3
 
 Flexbox
 
-💡 Objetivo del proyecto:
-Fortalecer habilidades en estructura y diseño web, dominando el modelo de caja flexible para organizar contenido de forma eficiente y adaptable.
+🧠 Aprendizajes
+Estructuración semántica en HTML
+
+Uso de Flexbox para distribuir elementos
+
+Diseño adaptable sin frameworks
+
+📌 Estado del proyecto
+✅ Finalizado — Proyecto de práctica
